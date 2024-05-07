@@ -1,5 +1,5 @@
 # iChat : A Real-time Chat Application
-##Description
+## Description
  A Chat application where multiple users can join in and send
                   messages to each other.
 ### Various features:
@@ -13,6 +13,7 @@
                     Messages to all other users are displayed whenever a new
                     user joins or leaves the chat
                   </li>
+                  
 ### Various Technologies used:
 <li>HTML</li>
 <li>CSS</li>
